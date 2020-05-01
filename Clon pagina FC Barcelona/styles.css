@@ -1,5 +1,49 @@
-nav{
-  width: 500px;
-  background: purple;
+body{
+  width: 960px;
+  background-color: #181733;
+}
+#titulo{
+  color: white;
+  padding-top: 60px;
+}
+#selector{
+  width: 960px;
+}
+#cookies{
+  color: white;
+}
+#logo{
+  float: left;
+  padding-top: 60px;
+}
+#busca{
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+#isotipo{
+  margin: 60px;
+}
+.opciones{
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+.post h2{
+  color: white;
+  text-align: center;
+}
+.post h4{
+  color: white;
+  text-align: center;
+}
+.post h5{
+  color: white;
+  text-align: center;
+}
+#patrocinadores{
+  color: white;
+}
+#posts{
 
 }
