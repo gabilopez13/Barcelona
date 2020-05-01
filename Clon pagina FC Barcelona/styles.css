@@ -4,7 +4,8 @@ body{
 }
 #titulo{
   color: white;
-  padding-top: 60px;
+  padding-top: 8px;
+  font-family: sans-serif;
 }
 #selector{
   width: 960px;
@@ -14,7 +15,7 @@ body{
 }
 #logo{
   float: left;
-  padding-top: 60px;
+  padding-top: 10px;
 }
 #busca{
   color: white;
@@ -41,9 +42,9 @@ body{
   color: white;
   text-align: center;
 }
+.post img{
+  
+}
 #patrocinadores{
   color: white;
-}
-#posts{
-
 }
